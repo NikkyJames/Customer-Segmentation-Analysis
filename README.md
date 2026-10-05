@@ -99,6 +99,25 @@ Customers: 208, 3,053   10    3,   1,038
 
 The resulting clusters revealed distinct differences in customer purchasing behavior.
 
+# 🛠️ Tools & Technologies
+
+🐍 Python
+🐼 Pandas
+🔢 NumPy
+📊 Matplotlib
+🎨 Seaborn
+🤖 Scikit-learn
+📓 Jupyter Notebook
+
+
+# 📈 Key Takeaways
+
+RFM analysis provides a practical way to understand customer purchasing behavior.
+K-Means clustering can identify distinct customer segments from transactional data.
+The 5-cluster solution achieved a silhouette score of 0.6140.
+Customer segments can support more personalized and targeted marketing strategies.
+Very small clusters require additional validation before being used for major business decisions.
+Data-driven segmentation can improve customer retention and marketing effectiveness.
 
 # 💡 Customer Segment Insights
 
@@ -124,27 +143,6 @@ Customer segmentation can support targeted strategies such as:
 📊 Low-engagement customers: Promotional campaigns designed to increase purchase frequency
 
 
-# 🛠️ Tools & Technologies
-
-🐍 Python
-🐼 Pandas
-🔢 NumPy
-📊 Matplotlib
-🎨 Seaborn
-🤖 Scikit-learn
-📓 Jupyter Notebook
-
-
-# 📈 Key Takeaways
-
-RFM analysis provides a practical way to understand customer purchasing behavior.
-K-Means clustering can identify distinct customer segments from transactional data.
-The 5-cluster solution achieved a silhouette score of 0.6140.
-Customer segments can support more personalized and targeted marketing strategies.
-Very small clusters require additional validation before being used for major business decisions.
-Data-driven segmentation can improve customer retention and marketing effectiveness.
-
-
 # 📝 Conclusion
 
 This project demonstrated how RFM analysis and K-Means clustering can transform transactional data into actionable customer insights.
@@ -158,13 +156,11 @@ The resulting segments revealed differences in customer purchasing behavior and 
 Overall, this analysis demonstrates how customer segmentation can help businesses make more informed, data-driven marketing decisions.
 
 
-
 # 🎓 Internship
 
 Organization: Oasis Infobyte
 Program: Data Analytics Internship
 #OasisInfobyte #OIBSIP
-
 
 
 # 👩🏽‍💻 Author
